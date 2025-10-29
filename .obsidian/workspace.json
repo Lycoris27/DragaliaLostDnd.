@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "6e9dd7e517caef3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddce3e6a6f4e7718",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7ad25e05728fa90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alberius.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alberius"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce89b70a801006ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "695b1cc977cd6ed6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68c232a3c4c4f7eb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "40704725731190c6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#IllianChurch",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3a575809f16c8c4c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "a101aba133ae0cf7",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
+            }
+          },
+          {
+            "id": "cf6c1e104e9fa681",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0537ee2eef2d9659",
+    "type": "split",
+    "children": [
+      {
+        "id": "4af0227a1d0ad1ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73d9010c16c684c8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "3c1459aa416496d6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "0d42acbd7d26837c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d49619d9700c08bc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "c55bf5f6171f443a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "cards-view:Card view": false,
+      "iconic:Open rulebook": false,
+      "folder-by-tags-distributor:Redistribute all notes to folder by tags": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b7ad25e05728fa90",
+  "lastOpenFiles": [
+    "Location/Region/Country/Alberia.md",
+    "North Gastraea.md",
+    "Alberius.md",
+    "Character/Morsayati.md",
+    "Character",
+    "Crystalia.md",
+    "Meta/Dialogue Tools - Meta.md",
+    "Meta",
+    "Location/Settlement/City/Clave Loy-Elune.md",
+    "Location/Site/Monument",
+    "Location/Site/Ruin",
+    "Location/Settlement/Village",
+    "Location/Settlement/Tribe",
+    "Location/Site/Battleground",
+    "Location/Settlement/Town",
+    "Location/Settlement/City",
+    "Location/Region/Territory",
+    "Image/TTRPG  Character Sheets/Pathfinder2eCS.jpg",
+    "Image/TTRPG  Character Sheets/GURPS CS.jpg",
+    "Image/TTRPG  Character Sheets/DnD CS.png",
+    "Image/Map Images/World Map Tectonic Plates.png",
+    "Image/TTRPG  Character Sheets/Daggerheart CS.webp",
+    "Image/Map Images/World Map Mountains.png",
+    "Image/Map Images/The Illian Lands.png",
+    "Image/Map Images/World Map Heat Zones.png",
+    "Image/Map Images/South Gastraea02.png",
+    "Image/Map Images/South Gastraea.png",
+    "Group/Illian Church.md",
+    "DragaliaLostDnd/Character/Morsayati.md",
+    "DragaliaLostDnd/North Gastraea.md",
+    "DragaliaLostDnd/Crystalia.md",
+    "DragaliaLostDnd/Alberius.md",
+    "DragaliaLostDnd/Meta/Dialogue Tools - Meta.md",
+    "DragaliaLostDnd/Location/Settlement/City/Clave Loy-Elune.md",
+    "DragaliaLostDnd/Location/Region/Country/Alberia.md",
+    "DragaliaLostDnd/Group/Illian Church.md",
+    "pininfo.md",
+    "Yellow/Bonk.md",
+    "Welcome.md"
+  ]
+}

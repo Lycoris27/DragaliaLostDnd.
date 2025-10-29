@@ -1,0 +1,9 @@
+{
+  "addRibbon": true,
+  "useContentTags": true,
+  "useFrontMatterTags": false,
+  "forceSequentialTags": false,
+  "excludedFolders": [],
+  "folderNameToPlaceOtherNotes": "OtherNotes",
+  "treatNestedTagsAsSeparateTagName": true
+}
