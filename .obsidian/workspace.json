@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alberius.md",
+                "file": "Location/Region/Country/Alberia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alberius"
+              "title": "Alberia"
+            }
+          },
+          {
+            "id": "33a0db9004a70cc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Location/Region/Country/Duneberg.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Duneberg"
+            }
+          },
+          {
+            "id": "12170edd3b99700a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Levin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Levin"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -207,15 +236,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7ad25e05728fa90",
+  "active": "12170edd3b99700a",
   "lastOpenFiles": [
-    "Location/Region/Country/Alberia.md",
-    "North Gastraea.md",
+    "Grissblum.md",
+    "Grams.md",
+    "Caldia.md",
+    "Auden.md",
+    "Apollonia.md",
+    "Meta/Meta.md",
+    "Meta/Dialogue Tools - Meta.md",
     "Alberius.md",
+    "Location/Region/Country/Alberia.md",
+    "Untitled.md",
+    "Location/Region/Country/Duneberg.md",
+    "Levin.md",
+    "Taiwu.md",
+    "Location/Region/Country/Odo.md",
+    "Location/Region/Country/North Gastraea.md",
+    "Location/Region/Country/Crystalia.md",
+    "Location/Region/Continent/Gastraea.md",
     "Character/Morsayati.md",
     "Character",
-    "Crystalia.md",
-    "Meta/Dialogue Tools - Meta.md",
     "Meta",
     "Location/Settlement/City/Clave Loy-Elune.md",
     "Location/Site/Monument",
@@ -242,11 +283,6 @@
     "DragaliaLostDnd/Crystalia.md",
     "DragaliaLostDnd/Alberius.md",
     "DragaliaLostDnd/Meta/Dialogue Tools - Meta.md",
-    "DragaliaLostDnd/Location/Settlement/City/Clave Loy-Elune.md",
-    "DragaliaLostDnd/Location/Region/Country/Alberia.md",
-    "DragaliaLostDnd/Group/Illian Church.md",
-    "pininfo.md",
-    "Yellow/Bonk.md",
-    "Welcome.md"
+    "DragaliaLostDnd/Location/Settlement/City/Clave Loy-Elune.md"
   ]
 }

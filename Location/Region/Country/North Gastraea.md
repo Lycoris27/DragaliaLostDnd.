@@ -8,7 +8,7 @@ Possible name: #Guntemire
 
 
 ---
-
+#### Qualities
 ### Connections
 **Affiliations**:
 **Alliances:**
@@ -16,7 +16,11 @@ Possible name: #Guntemire
 
 
 ### Locations:
-
+Cities: #Sventilia
+Towns:
+Villages:
+Provinces:
+Regions:
 
 
 ---
