@@ -12,7 +12,7 @@ One of the 3 countries within the #Wildlands . A country of gladiators that come
 #### Qualities
 
 #### Connections
-**Founder:** 
+**Founder:**  #Apollo
 **Affiliations:** 
 **Alliances:** 
 **Neutral:** 

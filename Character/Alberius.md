@@ -5,3 +5,10 @@ Aliases:
   - Dragonsblood Founder
 ---
 **Alberius, the Dragonsblood Founder**
+
+
+---
+#Character
+
+
+---

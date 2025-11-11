@@ -8,6 +8,7 @@ Possible name: #Guntemire
 
 
 ---
+#Location #Region #Country 
 #### Qualities
 ### Connections
 **Affiliations**:
